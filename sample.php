@@ -1,6 +1,5 @@
 <?php
- $a ="Hello!";
- echo $a;
+ $tan = [1,2,3];
 
  $age =20;
  $test ="テスト";
